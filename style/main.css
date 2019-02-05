@@ -1,0 +1,19 @@
+.my-scroll {
+  font-size: 300%;
+  font-style: italic;
+  color: whitesmoke;
+  opacity: 0.8;
+  margin-top: 100px;
+}
+.my-scroll:hover {
+  opacity: 0.6;
+
+}
+
+.my-title1 {
+  color: #a05f4f;
+  margin-top: 10%;
+}
+.my-title2 {
+  color: #ffc8a2;
+}
