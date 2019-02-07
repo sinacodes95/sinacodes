@@ -99,3 +99,13 @@ body {
 .img-size {
   width: 200px
 }
+
+.contact-logo-linkedin {
+  width: 100px;
+  margin: 32px;
+}
+
+.contact-logo {
+  width: 60px;
+  margin: 32px;
+}
